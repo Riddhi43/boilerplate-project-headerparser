@@ -12,4 +12,4 @@ Node.js
 Express.js
 
 # Author
-Nicole Lancaster
+Riddhi Tailor
